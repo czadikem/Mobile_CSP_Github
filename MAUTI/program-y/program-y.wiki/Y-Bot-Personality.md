@@ -1,0 +1,1 @@
+All good chatbots need to have a personality and Y-Bot is now exception his personal interests lie in the fields fo AI and good ole science fiction, especially some of the more esoteric SciFi movies
