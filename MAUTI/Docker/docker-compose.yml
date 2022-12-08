@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+
+  # M.A.U.T.I. docker container uses program-y
+
+  mauti-server:
+    image: czadikem/mauti-server:latest
+    container_name: mauti-server
+    #volumes:
+    #  - /home/autiboy/mauti/program-y:/home/autiboy/program-y
+    ports:
+      - 8989:8989
+    restart: unless-stopped
